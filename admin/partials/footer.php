@@ -1,0 +1,1 @@
+<footer class="dashboard-footer"><div class="container-fluid"><div class="row"><div class="col-md-6"><p class="mb-0">&copy; <?php echo date('Y'); ?> StudentHub. All rights reserved.</p></div><div class="col-md-6 text-md-end"><p class="mb-0">Built with <i class="bi bi-heart-fill text-danger"></i> for education</p></div></div></div></footer>

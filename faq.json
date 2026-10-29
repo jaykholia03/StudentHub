@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "question": "What is StudentHub?",
+        "answer": "StudentHub is a website for managing student information and activities.",
+        "category": "General"
+    },
+    {
+        "id": 2,
+        "question": "How can I check my attendance?",
+        "answer": "Open the Attendance page from the sidebar.",
+        "category": "Academic"
+    },
+    {
+        "id": 3,
+        "question": "How can I update my profile?",
+        "answer": "Open the Profile page and update your information.",
+        "category": "Account"
+    },
+    {
+        "id": 4,
+        "question": "How can I contact the admin?",
+        "answer": "Open the Contact page and send your message.",
+        "category": "General"
+    },
+    {
+        "id": 5,
+        "question": "How can I submit feedback?",
+        "answer": "Open the Feedback page and submit your feedback.",
+        "category": "General"
+    },
+    {
+        "id": 6,
+        "question": "What if I forget my password?",
+        "answer": "Contact the administrator for help.",
+        "category": "Account"
+    },
+    {
+        "id": 7,
+        "question": "Where can I find college notices?",
+        "answer": "Open the Notices page to view college announcements.",
+        "category": "Academic"
+    },
+    {
+        "id": 8,
+        "question": "How can I find college events?",
+        "answer": "Open the Events page to view upcoming college events.",
+        "category": "Academic"
+    }
+]

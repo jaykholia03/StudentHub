@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open StudentHub Login",
+            "url": "http://localhost/StudentHub/login.php",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open StudentHub Admin",
+            "url": "http://localhost/StudentHub/admin/admin.php",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
